@@ -1,0 +1,6 @@
+Name, Best Training Score, Testing Score
+NN, 0.9367, 0.9200
+Logistic Regression, 0.5733, 0.5950
+Decision Tree, 0.9767, 0.9550
+Random Forest, 0.9200, 0.8800
+AdaBoost, 0.7200, 0.6100
